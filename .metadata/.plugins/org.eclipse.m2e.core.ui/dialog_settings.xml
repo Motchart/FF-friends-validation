@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/vasilylukashuk/workspace/E2E_Title_Validation"/>
+			<item value="/Users/vasilylukashuk/workspace/Single_Title_Validation"/>
+			<item value="/Users/vasilylukashuk/workspace/Multiple-title-validation"/>
+			<item value="/Users/vasilylukashuk/workspace/Title_Validation_E2E"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/vasilylukashuk/workspace/Title_Validation_CLO"/>
+			<item value="/Users/vasilylukashuk/workspace/FF_Friends_validaiton"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="core"/>
+			<item value="core.E2E_Title_Validation"/>
+		</list>
+		<list key="groupId">
+			<item value="core"/>
+		</list>
+		<list key="artifactId">
+			<item value="BAT_EV"/>
+			<item value="Exercise"/>
+			<item value="Sign_Up_Selenium"/>
+			<item value="FF_Friends_validaiton"/>
+			<item value="DB_Title_Validation"/>
+			<item value="Title_Validaiton_DB"/>
+			<item value="Title_Validation_CLO"/>
+			<item value="MultipleTitleValidationCLO"/>
+			<item value="E2E_Title_Validation"/>
+			<item value="Title_Validaiton_CLO"/>
+			<item value="Title_Validation_E2E"/>
+			<item value="Junit_40"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="1.0"/>
+			<item value="1.1"/>
+		</list>
+	</section>
+</section>
